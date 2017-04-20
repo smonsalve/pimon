@@ -1,0 +1,60 @@
+Acerca de Nosotros
+
+La Universidad EAFIT es una institución de educación superior de derecho privado y de utilidad común, que tiene el carácter de una fundación de origen privado, sin ánimo de lucro, y que se rige por el derecho privado, con capacidad para adquirir, poseer, enajenar y gravar toda clase de bienes muebles e inmuebles. La Universidad EAFIT tiene personería jurídica otorgada mediante la Resolución Número 75, del 28 de junio de 1960, expedida por la Gobernación de Antioquia; fue reconocida como Universidad por el Decreto Número 759, del 6 de mayo de 1971, de la Presidencia de la República de Colombia, y acreditada institucionalmente por el Ministerio de Educación Nacional, mediante Resolución 1680 del 16 de marzo de 2010.
+
+La Universidad EAFIT tiene la Misión de contribuir al progreso social, económico, científico y cultural del país, mediante el desarrollo de programas de pregrado y de posgrado -en un ambiente de pluralismo ideológico y de excelencia académica- para la formación de personas competentes internacionalmente; y con la realización de procesos de investigación científica y aplicada, en interacción permanente con los sectores empresarial, gubernamental y académico.
+
+Con base en los principios rectores de la Universidad EAFIT, se inició hace varios años la línea de investigación de Monitoreo y Salud Estructural (Structural Health Monitoring) con el objetivo de contribuir al progreso social y científico de la región, mediante el desarrollo y la implementación de nuevas tecnologías que contribuyen a mejorar el bienestar de la población.
+
+Quienes Somos
+
+Desde hace más de diez años, la Universidad EAFIT viene trabajado en el desarrollo del tema de Monitoreo y Salud Estructural (Structural Health Monitoring) dentro de los campos de la investigación, la docencia, la extensión y la consultoría.
+
+El desarrollo de la línea de investigación de Monitoreo y Salud Estructural ha contado con el apoyo de varios profesores de amplia trayectoria mundial, entre los que se encuentran el Dr. David Murìa Vila - UNAM - México y el Dr. Rubén Boroschek - Universidad de Chile.
+
+Durante esta etapa se han desarrollado varios programas de cómputo para el análisis de señales, se han promocionado varios proyectos de maestría en ingeniería, se han publicados varios artículos de investigación en el tema, se han contratado diversos proyectos de consultoría, se han implementado cursos de posgrado incluyendo el tema de Monitoreo y Salud Estructural, se han generado relaciones institucionales con varios profesores internacionales, se han desarrollado varios simposios asociados al tema.   Actualmente, la Universidad es miembro de ISHMII (International Society for Structural Health Monitoring of Intelligent Infrastructure).
+
+Participación en Proyectos:
+Monitoreo del edificio de ingenierías de la Universidad EAFIT
+Monitoreo de la Catedral Metropolitana de Medellín
+Monitoreo del edificio SPACE
+Monitoreo de varios edificios de la ciudad de Medellín
+
+
+
+
+
+Perfiles Miembros
+
+
+Juan Carlos Botero Palacio, PhD
+Coordinador área de Estructuras
+Universidad EAFIT
+
+
+Ayuda
+
+???
+
+Preguntas Frecuentes
+
+¿Qué es Monitoreo y Salud Estructural?
+El monitoreo estructural se define como una metodología que permite hacer un seguimiento permanente del comportamiento dinámico de un edificio con el fin de establecer posibles variaciones de sus propiedades dinámicas, las cuales pueden ser un indicio del inicio de patologías estructurales.
+
+¿Porque es importante el Monitoreo Estructural?
+Luego de que ocurre un evento dinámico, como puede ser un sismo, un deslizamiento o una erupción volcánica, las propiedades dinámicas del sistema físico pueden sufrir cambios importantes.  Estos cambios son evidencias de patologías que pueden ser identificadas mediante procesos de de medición experimental. ​
+
+¿Existe alguna norma colombiana que rija el monitoreo estructural?
+El Reglamento Colombiano de Construcción Sismo Resistente NSR-10 (Ley 400 de 1997) incluye el capítulo A.11 - Instrumentación Sísmica.   En dicho capítulo se establece las condiciones para se deben tener en cuenta para instrumentar una estructura.
+
+¿Con qué equipos se puede realizar un monitoreo estructural?
+Normalmente se pueden utilizar acelerómetros, con el fin de registrar los movimientos que pueden ocurrir en una estructura por acciones patológicas, por eventos sísmicos o por acciones propias del uso de la edificación.   También se pueden emplear inclinómetros, transductores de desplazamiento, medidores de rotación, medidores de deformación, anemómetros, etc.
+
+¿Qué es una plataforma inteligente de monitoreo?
+Consiste en un sistema automatizado de monitoreo estructural que permite identificar en tiempo real alguna variación de los parámetros estructurales de un edificio e inmediatamente puede enviar mensajes de alerta.
+
+
+Información de Contacto
+
+Juan Carlos Botero Palacio
+jcbotero@eafit.edu.co
